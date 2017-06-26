@@ -8,7 +8,7 @@
         <router-link to="/advise">Advise</router-link>
         <router-link to="/form">Form</router-link>
         <a class="github" href="https://github.com/vuejs/vue-hackernews-2.0" target="_blank" rel="noopener">
-          Built with Vue.js
+          Built by xiaoxudoo
         </a>
       </nav>
     </header>
